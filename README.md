@@ -1,6 +1,6 @@
 # fastapi-celery-integration
 
-## summary
+## summary :page_facing_up:
 This is a simple project to demonstrate the integration of celery with fastapi to run asynchronous task in the background. As celery is synchronous in nature, it requires async functions to be converted to sync functions. 
 
 
