@@ -6,6 +6,7 @@ This is a simple project to demonstrate the integration of celery with fastapi t
 
 ## libraries :books:
 
+
 ```
 amqp==5.3.1
 annotated-types==0.7.0
